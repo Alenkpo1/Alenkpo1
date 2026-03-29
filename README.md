@@ -1,3 +1,4 @@
+![banner](./banner.png)
 # Hi, I'm Alén 👋
 
 💻 Computer Engineering Student @ UBA
